@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: gray;
+  background-color: rgb(44, 49, 49);
   background-image: url(img/background-adare-restaurant.jpg);
   background-size: cover;
   background-repeat: no-repeat;
